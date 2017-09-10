@@ -13,7 +13,6 @@ var facts = [
 ];
 
 function johnLennonFacts(facts) {
-
     var counter = 0;
     while (counter < facts.length) {
         facts[counter] += "!!!";
@@ -21,4 +20,4 @@ function johnLennonFacts(facts) {
     }
     console.log(facts);
 }
-johnLennonFacts(facts);
+
