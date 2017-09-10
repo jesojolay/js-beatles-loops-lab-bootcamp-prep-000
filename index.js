@@ -20,4 +20,4 @@ function johnLennonFacts(facts) {
         counter++;
     }
     console.log(facts);
-}(facts);
+}(facts)
