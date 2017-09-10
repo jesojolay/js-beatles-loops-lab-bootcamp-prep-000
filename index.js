@@ -20,4 +20,5 @@ function johnLennonFacts(facts) {
         counter++;
     }
     console.log(facts);
-}(facts)
+}
+johnLennonFacts(facts);
